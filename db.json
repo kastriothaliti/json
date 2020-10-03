@@ -1,0 +1,32 @@
+{
+"items":
+[
+    {
+      id: uuid(),
+      text: 'Milk',
+      quantity: 2,
+      url: 'https://via.placeholder.com/600/92c952',
+      shop: true,
+    },
+    {
+      id: uuid(),
+      text: 'Eggs',
+      quantity: 30,
+      url: 'https://via.placeholder.com/600/92c952',
+      shop: false,
+    },
+    {
+      id: uuid(),
+      text: 'Bread',
+      quantity: 1,
+      url: 'https://via.placeholder.com/600/92c952',
+      shop: true,
+    },
+    {
+      id: uuid(),
+      text: 'Juice',
+      quantity: 0,
+      url: 'https://via.placeholder.com/600/92c952',
+      shopt: false,
+    },
+  ]}
